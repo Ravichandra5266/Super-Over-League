@@ -1,0 +1,20 @@
+/* Write your code here. */
+* {
+  margin: 0;
+}
+.bgContainer {
+  background-color: #0f172a;
+  height: 100vh;
+  text-align: center;
+  padding-top: 200px;
+}
+
+.heading {
+  color: #f8fafc;
+  margin-bottom: 20px;
+  font-family: roboto;
+}
+
+.image {
+  height: 200px;
+}
